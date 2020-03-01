@@ -1,0 +1,13 @@
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\bin\Debug\netcoreapp3.1\Celo.Service.deps.json
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\bin\Debug\netcoreapp3.1\Celo.Service.dll
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\bin\Debug\netcoreapp3.1\Celo.Service.pdb
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\bin\Debug\netcoreapp3.1\Celo.Common.dll
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\bin\Debug\netcoreapp3.1\Celo.Data.dll
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\bin\Debug\netcoreapp3.1\Celo.Data.pdb
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\bin\Debug\netcoreapp3.1\Celo.Common.pdb
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\obj\Debug\netcoreapp3.1\Celo.Service.csprojAssemblyReference.cache
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\obj\Debug\netcoreapp3.1\Celo.Service.AssemblyInfoInputs.cache
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\obj\Debug\netcoreapp3.1\Celo.Service.AssemblyInfo.cs
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\obj\Debug\netcoreapp3.1\Celo.Service.csproj.CopyComplete
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\obj\Debug\netcoreapp3.1\Celo.Service.dll
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Service\obj\Debug\netcoreapp3.1\Celo.Service.pdb

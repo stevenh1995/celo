@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Celo.Common\Celo.Common.csproj" />
+    <ProjectReference Include="..\Celo.Data\Celo.Data.csproj" />
+    <ProjectReference Include="..\Celo.Service\Celo.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

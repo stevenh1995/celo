@@ -1,0 +1,8 @@
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\bin\Debug\netcoreapp3.1\Celo.Common.deps.json
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\bin\Debug\netcoreapp3.1\Celo.Common.dll
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\bin\Debug\netcoreapp3.1\Celo.Common.pdb
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\obj\Debug\netcoreapp3.1\Celo.Common.AssemblyInfoInputs.cache
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\obj\Debug\netcoreapp3.1\Celo.Common.AssemblyInfo.cs
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\obj\Debug\netcoreapp3.1\Celo.Common.dll
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\obj\Debug\netcoreapp3.1\Celo.Common.pdb
+C:\Users\Minkyu Ham\Desktop\celo\TestAPI\WebApplication1\Celo.Common\obj\Debug\netcoreapp3.1\Celo.Common.csprojAssemblyReference.cache
